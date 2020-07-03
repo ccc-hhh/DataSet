@@ -1,6 +1,6 @@
 # DataSet
 
-### 更新数据集及其python代码
+### 更新数据集及对应python代码
 
 1、wine数据集（分类）（https://archive.ics.uci.edu/ml/index.php）
 
