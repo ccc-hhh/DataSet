@@ -11,3 +11,8 @@
 4、德国人信用（german_credit）数据集（分类）（非均衡数据700/300）（https://archive.ics.uci.edu/ml/index.php）
 
 5、空气质量数据集（回归）（https://archive.ics.uci.edu/ml/index.php）
+
+6、MNIST手写数字数据集（分类）（import torchvision）
+
+7、FashionMNIST衣物数据集（分类）（import torchvision）
+
